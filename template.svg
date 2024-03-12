@@ -1,0 +1,50 @@
+<svg
+    version="1.1"
+    viewBox="0 0 210 297"
+    width="210mm"
+    height="297mm"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+    <sodipodi:namedview
+        pagecolor="#ffffff"
+        bordercolor="#000000"
+        borderopacity="0.25"
+        inkscape:showpageshadow="2"
+        inkscape:pageopacity="0.0"
+        inkscape:pagecheckerboard="true"
+        inkscape:deskcolor="#d1d1d1"
+        inkscape:document-units="mm"
+        showborder="false"
+        inkscape:current-layer="print">
+        <sodipodi:guide
+            id="guideTop"
+            orientation="0,1"
+            position="0,10"
+            inkscape:color="#0086e5" />
+        <sodipodi:guide
+            id="guideRight"
+            orientation="-1,0"
+            position="200,0"
+            inkscape:color="#0086e5" />
+        <sodipodi:guide
+            id="guideBottom"
+            orientation="0,1"
+            position="0,287"
+            inkscape:color="#0086e5" />
+        <sodipodi:guide
+            id="guideLeft"
+            orientation="-1,0"
+            position="10,0"
+            inkscape:color="#0086e5" />
+    </sodipodi:namedview>
+    <g inkscape:groupmode="layer" id="print" inkscape:label="Print" />
+    <g inkscape:groupmode="layer" id="cut" inkscape:label="Cut" />
+    <g inkscape:groupmode="layer" id="registration" inkscape:label="Registration" inkscape:locked="true">
+        <path id="registrationBottomRight" fill="#000000" d="m 200,292 v -5 h -5 v 0.5 h 4.5 v 4.5 z m 0,-5 h 5 v -0.5 h -4.5 V 282 H 200 Z m 1.5,-1 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 z" />
+        <path id="registrationBottomLeft" fill="#000000" d="m 10,292 v -5 h 5 v 0.5 h -4.5 v 4.5 z m 0,-5 H 5 v -0.5 H 9.5 V 282 H 10 Z M 8.5,286 A 0.5,0.5 0 0 1 8,285.5 0.5,0.5 0 0 1 8.5,285 0.5,0.5 0 0 1 9,285.5 0.5,0.5 0 0 1 8.5,286 Z" />
+        <path id="registrationTopRight" fill="#000000" d="m 200,5 v 5 h -5 V 9.5 h 4.5 V 5 Z m 0,5 h 5 v 0.5 h -4.5 V 15 H 200 Z m 1.5,1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z" />
+        <path id="registrationTopLeft" fill="#000000" d="m 10,5 v 5 h 5 V 9.5 H 10.5 V 5 Z m 0,5 H 5 v 0.5 H 9.5 V 15 H 10 Z M 8.5,11 A 0.5,0.5 0 0 0 8,11.5 0.5,0.5 0 0 0 8.5,12 0.5,0.5 0 0 0 9,11.5 0.5,0.5 0 0 0 8.5,11 Z" />
+    </g>
+</svg>

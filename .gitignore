@@ -1,0 +1,14 @@
+# IDEs
+/.idea
+/.vscode
+# OSs
+.directory
+.Trash-*
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+# Temporary files
+*~
+._*
+.*.kate-swp
+.swp.*
