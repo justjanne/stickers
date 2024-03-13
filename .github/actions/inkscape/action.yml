@@ -1,0 +1,12 @@
+name: 'Inkscape Action'
+description: 'Convert and process vector graphics with inkscape'
+inputs:
+  run:
+    description: 'What commands to run'
+    required: true
+    default: 'inkscape --version'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.run }}
