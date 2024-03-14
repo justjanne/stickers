@@ -7,13 +7,13 @@ if [ "$width" -gt "$height" ]; then
         --export-type=png \
         --export-filename="$(dirname "$1")/$(basename "$1" .svg).png" \
         --export-area-page \
-        --export-width=512 \
+        --export-width=2048 \
         "$1"
 else
     inkscape \
         --export-type=png \
         --export-filename="$(dirname "$1")/$(basename "$1" .svg).png" \
         --export-area-page \
-        --export-height=512 \
+        --export-height=2048 \
         "$1"
 fi
