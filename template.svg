@@ -39,8 +39,9 @@
             position="10,0"
             inkscape:color="#0086e5" />
     </sodipodi:namedview>
+    <g inkscape:groupmode="layer" id="cut_die" inkscape:label="Cut (Die)" />
+    <g inkscape:groupmode="layer" id="cut_kiss" inkscape:label="Cut (Kiss)" />
     <g inkscape:groupmode="layer" id="print" inkscape:label="Print" />
-    <g inkscape:groupmode="layer" id="cut" inkscape:label="Cut" />
     <g inkscape:groupmode="layer" id="registration" inkscape:label="Registration" inkscape:locked="true">
         <path id="registrationBottomRight" fill="#000000" d="m 200,292 v -5 h -5 v 0.5 h 4.5 v 4.5 z m 0,-5 h 5 v -0.5 h -4.5 V 282 H 200 Z m 1.5,-1 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 z" />
         <path id="registrationBottomLeft" fill="#000000" d="m 10,292 v -5 h 5 v 0.5 h -4.5 v 4.5 z m 0,-5 H 5 v -0.5 H 9.5 V 282 H 10 Z M 8.5,286 A 0.5,0.5 0 0 1 8,285.5 0.5,0.5 0 0 1 8.5,285 0.5,0.5 0 0 1 9,285.5 0.5,0.5 0 0 1 8.5,286 Z" />
