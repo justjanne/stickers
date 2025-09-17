@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v5
       - uses: "./.github/actions/inkscape"
         with:
           run: |
@@ -19,12 +19,12 @@ jobs:
       - run: |
           cd designs; zip -r9 ../stickers.zip .
       - name: Publish artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: stickers.zip
           retention-days: 1
       - name: Release artifacts
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: stickers.zip
