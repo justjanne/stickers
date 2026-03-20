@@ -11,6 +11,7 @@
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/git.svg width=256 height=256 />&nbsp;
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/gostacean.svg width=256 height=256 />&nbsp;
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/homoassistant.svg width=256 height=256 />&nbsp;
+<img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/microslop.svg width=256 height=256 />&nbsp;
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/mikroplastik.svg width=256 height=256 />&nbsp;
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/pretix_unavailable.svg width=256 height=256 />&nbsp;
 <img src=https://raw.githubusercontent.com/justjanne/stickers/main/designs/queer.svg width=256 height=256 />&nbsp;
